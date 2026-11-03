@@ -4,13 +4,10 @@
 **This is a class project, not affiliated with the Metropolitan Government of Nashville and Davidson County.
 
 ## Screenshots
-### Project Title
 ![Metro Budget Title Page](images/Title%20Page%20Metro%20Budget.png)
 
-### Budget Accuracy Overview
 ![Budget Accuracy Overview](images/Budget%20Accuracy%20Overview.png)
 
-### What Changed
 ![What Changed](images/What%20changed.png)
 
 ## What this is
